@@ -1,3 +1,29 @@
+## omnibase (melodic) - 1.0.2-2
+
+The packages in the `omnibase` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic omnibase` on `Thu, 29 Oct 2020 07:55:03 -0000`
+
+These packages were released:
+- `omnibase_control`
+- `omnibase_description`
+- `omnibase_gazebo`
+
+Version of package(s) in repository `omnibase`:
+
+- upstream repository: https://github.com/ERC-BPGC/omnibase.git
+- release repository: https://github.com/ERC-BPGC/omnibase-release.git
+- rosdistro version: `1.0.1-1`
+- old version: `1.0.2-1`
+- new version: `1.0.2-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## omnibase (melodic) - 1.0.2-1
 
 The packages in the `omnibase` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic omnibase` on `Thu, 29 Oct 2020 07:43:52 -0000`
