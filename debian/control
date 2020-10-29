@@ -1,0 +1,12 @@
+Source: ros-melodic-omnibase-gazebo
+Section: misc
+Priority: optional
+Maintainer: Harshal Heshpande <hardesh1deshpande@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-effort-controllers, ros-melodic-gazebo-msgs, ros-melodic-geometry-msgs, ros-melodic-joint-state-controller, ros-melodic-joint-trajectory-controller, ros-melodic-position-controllers, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-velocity-controllers
+Homepage: https://erc-bpgc.github.io/omnibase/
+Standards-Version: 3.9.2
+
+Package: ros-melodic-omnibase-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-effort-controllers, ros-melodic-gazebo-msgs, ros-melodic-geometry-msgs, ros-melodic-joint-state-controller, ros-melodic-joint-trajectory-controller, ros-melodic-position-controllers, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-std-msgs, ros-melodic-velocity-controllers
+Description: The omnibase_gazebo package
